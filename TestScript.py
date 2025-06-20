@@ -10,9 +10,9 @@ html_content = f"""
 <html>
 <head><title>AutoThinker Test</title></head>
 <body>
-    <h1>Report Generated</h1>
+    <h1>AutoThinker AI</h1>
     <p>Timestamp: {datetime.now()}</p>
-    <p>Welcome to AutoThinker AI</p>
+    <p>Welcome to your own agent</p>
 </body>
 </html>
 """
