@@ -24,5 +24,5 @@ with open(FILE_NAME, "w") as f:
 # Construct the GitHub Pages URL
 public_url = f"https://{GITHUB_USERNAME}.github.io/{REPO_NAME}/{FILE_NAME}"
 
-print(f"✅ Report generated: {FILE_NAME}")
+print(f"✅ Welcome page generated: {FILE_NAME}")
 print(f"🌐 View it here: {public_url}")
